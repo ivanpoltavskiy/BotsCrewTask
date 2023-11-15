@@ -1,2 +1,7 @@
-package com.example.botscrewtask;public enum DegreeName {
+package com.example.botscrewtask.enums;
+
+public enum DegreeName {
+    ASSISTANCE,
+    ASSOCIATE_PROFESSOR,
+    PROFESSOR
 }
